@@ -17,9 +17,11 @@ npm run build
 
 
 project structure:
+````
 src/
 ├── Character/
 │   └── character.jsx       # Contains the main 3D model with animations
 ├── overlay/
 │   └── overlay.jsx         # Contains an overlay to show information
 └── Experience.jsx          # Main scene/canvas with lights and settings
+````
